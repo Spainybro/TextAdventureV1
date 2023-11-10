@@ -1,0 +1,146 @@
+Office
+-1
+-1
+-1
+-1
+My office, it has a mirror a desk and the door out. There's also a package from my client along with a journal, perhaps I should have a look at it
+Journal with key
+Temple entrance
+2
+-1
+-1
+-1
+Other than the few packing crates around here there's not much to see, I should head deeper.
+emp
+Temple Atrium 1
+-1
+4
+1
+3
+The packing crates around me are the most noticable feature of this room, however the footprints on the floor seem to go through the wall in front of me.
+empty
+Temple Sideroom 1
+-1
+2
+-1
+-1
+It's a small room with a small pedastal in the middle, it seems like something should go on it.
+empty
+Temple office
+-1
+-1
+-1
+2
+The client said this was where thier team has set up base inside,the desk in the corner seems out of place here,there seems to be some sort of idol on it
+Golden Idol
+Temple Atrium 2
+-1
+8
+2
+6
+Other than the packing crate on the way in,this part of the temple seems untouched. The wall in front of me looks alot like the wall I went through to get here though it seems to have some engravings on it: A chicken, a cat ,a hawk and a dog
+Dog Bone
+Temple Front Shrine 2
+-1
+5
+-1
+7
+There's a pedastal in the middle of the room with what looks like carvings of a cat on each side.It seems something should be placed on it.
+Hawk's Feather
+Temple Front Shrine 1
+-1
+6
+10
+-1
+There's a pedastal in the middle of the room with what looks like carvings of a egg on each side.It seems something should be placed on it.
+empty
+Temple Front Shrine 3
+-1
+9
+-1
+5
+There's a pedastal in the middle of the room with what looks like carvings of a hawk on each side. It seems something should be placed on it.
+Silver Egg
+Temple Front Shrine 4
+-1
+-1
+11
+8
+There's a pedestal in the middle of the room with what looks like carvings of a dog on each side.It seems something should be placed on it.
+empty
+Temple Sideroom 2
+7
+-1
+-1
+-1
+There isn't much here, just a few empty jars. Perhaps this used to be storage?
+Cat's Claws
+Temple Sideroom 3
+9
+-1
+-1
+-1
+There isn't much here, just a few empty jars. Perhaps this used to be storage?
+empty
+Temple Atrium 3
+17
+15
+5
+13
+Despite the room's large size, there isn't much here.Any markings that were on the walls have been worn away by time.
+empty
+Temple Sideroom 4
+-1
+12
+-1
+14
+There appears to be some faded markings on the walls, there's what looks like a necklace and the word love
+Axe
+Temple Inner Shrine 1
+-1
+13
+-1
+-1
+There's a pedastal in the middle of the room with what looks like an engraving of 1 on each side.It seems something should be placed on it.
+Chalice
+Temple Sideroom 5
+-1
+16
+-1
+12
+There appears to be some markings on the wall, there's what looks like a axe and a chalice and the words strength and grace
+Necklace
+Temple Inner Shrine 4
+-1
+-1
+-1
+15
+There's a pedastal in the middle of the room with what looks like an engraving of 4 on each side.It seems something should be placed on it.
+empty
+Temple Atrium 4
+-1
+19
+12
+18
+There seems to be some sort of riddle engraved into the wall: Strength beside Courage, Love after Courage, Courage before Strength, Grace after Love (C,S,L,G)
+empty
+Temple Inner Shrine 2
+-1
+17
+-1
+-1
+There's a pedastal in the middle of the room with what looks like an engraving of 2 on each side.It seems something should be placed on it.
+empty
+Temple Inner Shrine 3
+-1
+-1
+-1
+17
+There's a pedastal in the middle of the room with what looks like an engraving of 3 on each side.It seems something should be placed on it.
+Spiky Ball
+Central Atrium
+0
+-1
+17
+-1
+After venturing through the temple for a while you've finally reached the central room, all that's in here is a mirror that looks like you could walk through.
